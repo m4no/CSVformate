@@ -1,2 +1,2 @@
 # CSVformate
-Dirty python script fortmat CSV export from Droid Wallet to AndroMoney
+Dirty python script format CSV export from Droid Wallet to be import to AndroMoney
